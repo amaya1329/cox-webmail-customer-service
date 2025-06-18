@@ -7,11 +7,11 @@ How to Contact Cox Webmail Customer Service?
 
 Dependable customer service is more crucial than ever in the fast-paced world of today. The degree of assistance a business offers can make all the difference when it comes to problems with phone lines, internet service, or cable TV. Access to first-rate customer service can guarantee a seamless and trouble-free experience for users of **Cox Communications**, a well-known broadband and cable television provider in the United States.
 
-.. image:: click-download.png
+.. image:: click-service.png
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://i-downloadsoftwares.com/
+   :target: https://getchatsupport.live/
 
 A Synopsis of Cox Communications
 ----------------------------------
