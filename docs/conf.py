@@ -1,4 +1,4 @@
-project = 'NordPass Guide'
+project = 'Cox Guide'
 author = 'Your Name'
 release = '1.0'
 
